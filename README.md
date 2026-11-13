@@ -11,7 +11,7 @@ Check out my website at https://www.sluke.dev/ or reach out to work with me at [
 ### Apps
 
 - [Expressive Gmail](https://github.com/slukedev/expressive-gmail): A browser extension that replaces Gmail's interface with a complete Material 3 Expressive redesign. Your real mail, same account, plus extra features. Chrome, Firefox and Safari. Also installable through my [Homebrew tap](https://github.com/slukedev/homebrew-tap). TypeScript, GPL-3.0.
-- [Tracks](https://github.com/slukedev/tracks): A music app for iPhone and Mac. Plays Apple Music or a self-hosted Octo server, remembers every song you hear, and turns it into mixes, stations and charts. Scrobbles to Last.fm too. Swift, MIT.
+- [Tracks](https://github.com/slukedev/tracks): A music app for iPhone and Mac. Plays Apple Music or a self-hosted Octo server, remembers every song you hear, and turns it into mixes, stations and charts. Scrobbles to Last.fm too. Swift, GPL-3.0.
 - [Xenia](https://github.com/slukedev/xenia): A native Matrix client with a universal Rust backend and a platform-native frontend. Swift and Rust, GPL-3.0.
 - [Hearsay](https://github.com/slukedev/hearsay): Voice control for Chrome. Say "e2 to e4" to play chess.com, and give any website its own voice commands. JavaScript, MIT.
 
