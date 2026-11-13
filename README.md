@@ -27,7 +27,7 @@ Check out my website at https://www.sluke.dev/ or reach out to work with me at [
 ### Archived
 
 - [Meterial You](https://github.com/slukedev/meterial-you): A customizable Rainmeter plugin for applying Material You colors to widgets. C#, MIT. [Website](https://meterialyou.vercel.app)
-- [Familiar](https://github.com/slukedev/familiar): A Mac for your assistant. A private macOS VM per person, driven over MCP, on your own server. Rust, GPL-3.0.
+- [Familiar](https://github.com/slukedev/familiar): A Mac for your assistant. A private macOS VM per person, driven over MCP, on your own Linux server, no mac required. Rust, GPL-3.0.
 
 ### Small and older
 
